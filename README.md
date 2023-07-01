@@ -15,10 +15,10 @@ EP:
 * POST /usuarios
 
   
-*GET /usuarios
+* GET /usuarios
 
 
-*POST /login
+* POST /login
 
 
 
