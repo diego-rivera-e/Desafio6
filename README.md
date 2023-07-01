@@ -13,8 +13,14 @@ SELECT * FROM usuarios;
 
 EP:
 * POST /usuarios
+
+  
 *GET /usuarios
+
+
 *POST /login
+
+
 
 Requerimientos:
 
